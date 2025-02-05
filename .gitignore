@@ -1,0 +1,10 @@
+.DS_Store
+raycast
+yarn
+.zcompdump
+.zcompdump-Hardik_123x-5.9
+.zcompdump-Hardik_123x-5.9.zwc
+.zsh_history
+.zsh_sessions/
+configstore/
+flutter/
